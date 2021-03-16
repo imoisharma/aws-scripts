@@ -2,7 +2,6 @@
 
 <h2 align="center">A collection of bash shell scripts for automating various tasks with <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services</a> using the <a href="https://aws.amazon.com/cli/" target="_blank">AWS CLI</a> and <a href="https://stedolan.github.io/jq/" target="_blank">jq</a>.</h2>
 
-[![Build Status](https://travis-ci.org/swoodford/aws.svg?branch=master)](https://travis-ci.org/swoodford/aws)
 
 #### [https://github.com/imoisharma](https://github.com/imoisharma)
 

@@ -151,7 +151,7 @@ Debian/Ubuntu:
 
 ## Bugs and feature requests
 Have a bug or a feature request? The [issue tracker](https://github.com/imoisharma/aws-scripts/issues) is the preferred channel for bug reports, feature requests and submitting pull requests.
-If your problem or idea is not addressed yet, [please open a new issue](https://github.com/aws-scripts/issues/new).
+If your problem or idea is not addressed yet, [please open a new issue](https://github.com/imoisharma/aws-scripts/issues/new).
 
 
 Code released under the [Apache License 2.0](https://github.com/imoisharma/aws-scripts/blob/master/LICENSE.md).

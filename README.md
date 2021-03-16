@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/swoodford/aws.svg?branch=master)](https://travis-ci.org/swoodford/aws)
 
-#### [https://github.com/swoodford/aws](https://github.com/swoodford/aws)
+#### [https://github.com/imoisharma](https://github.com/imoisharma)
 
 ## Table of contents
 

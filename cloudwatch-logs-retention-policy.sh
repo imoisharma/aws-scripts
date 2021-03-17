@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set -x
 # This script will set CloudWatch Logs Retention Policy to x number of days for all log groups in all regions available
 # Requires the AWS CLI and jq
 

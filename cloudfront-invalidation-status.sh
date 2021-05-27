@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script monitors CloudFront distributions for cache invalidation status and alerts when it has completed
 # Requires the AWS CLI and jq
 
